@@ -80,10 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "sidebar"
+  name             : "Turner Johnson"
   avatar           : "profile.png"
-  bio              : "hello i am the left hand sidebar"
-  location         : "Haverford"
+  bio              : "I am a fourth-year physics and environmental studies student at Haverford College and work with folks at Bigelow Laboratory with the Tandy Center for Ocean Forecasting."
+  location         : "Philadelphia, PA"
+  location         : "East Boothbay, ME"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "turnerjohnson"
   google_plus      :
   keybase          :
   instagram        :
