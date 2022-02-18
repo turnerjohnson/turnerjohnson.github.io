@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Navigate via sidebar"
-  avatar           : "profile.png"
+  name             : "sidebar"
+  avatar           : "_self.png"
   bio              : "hello i am the left hand sidebar"
-  location         : "Location"
+  location         : "Haverford"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
