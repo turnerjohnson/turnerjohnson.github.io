@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "sidebar"
-  avatar           : "_self.png"
+  avatar           : "profile.png"
   bio              : "hello i am the left hand sidebar"
   location         : "Haverford"
   employer         :
